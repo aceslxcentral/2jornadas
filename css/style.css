@@ -2448,3 +2448,25 @@ position:absolute;
     align-items: center;
     justify-content: center;
 }
+
+.subdescription {
+	font-style: italic;
+	}
+	
+.poster-btn {
+	padding: 25px 29px;
+	border: #0fc690 solid 1px;
+	background: #0fc690;
+	color: #fff;
+	font-weight: 500;
+	font-size: 20px;
+}
+
+ul.posters > li{
+color: red;
+}
+
+.posters {
+font-size: 15px;
+padding: 20px;
+}
